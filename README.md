@@ -7,3 +7,15 @@ Uses Firebase to host a globally available set of data that will be retrieved an
 
 
 [Getting started with Firebase][https://firebase.google.com/docs/web/setup] [Moment.js][https://momentjs.com/]
+
+**Technology Used:**
+
+HTML
+
+CSS
+
+Javascript
+
+Firebase
+
+
